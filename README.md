@@ -6,6 +6,10 @@ It handles basic arithmetic, features a clear display with an input limit, and i
 <img width="397" height="527" alt="image" src="https://github.com/user-attachments/assets/45789321-9f57-4f5d-828b-6d05e66a83cd" />
 
 
+
+
+
+
 ## ✨ Features
 
 * **Basic Arithmetic**: Perform addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
@@ -14,10 +18,3 @@ It handles basic arithmetic, features a clear display with an input limit, and i
 * **Error Handling**: Displays an "Error" message for invalid operations like division by zero or syntax errors.
 * **Intuitive UI**: A simple and familiar layout with distinct colors for number and operator buttons.
 
-
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-Copyright (c) 2025 Isaac Hughes
