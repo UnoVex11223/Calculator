@@ -10,7 +10,7 @@ It handles basic arithmetic, features a clear display with an input limit, and i
 
 
 
-## ✨ Features
+## Features
 
 * **Basic Arithmetic**: Perform addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
 * **Clear Display**: A `Clear` button to instantly reset the current calculation.
