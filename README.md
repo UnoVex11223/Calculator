@@ -1,9 +1,9 @@
 # Simple Python Tkinter Calculator 🧮
 
+A clean, functional, and easy-to-use calculator built with Python's native GUI library, Tkinter. It handles basic arithmetic, features a clear display with an input limit, and includes basic error handling.
+
 <img width="397" height="527" alt="image" src="https://github.com/user-attachments/assets/45789321-9f57-4f5d-828b-6d05e66a83cd" />
 
-
-A clean, functional, and easy-to-use calculator built with Python's native GUI library, Tkinter. It handles basic arithmetic, features a clear display with an input limit, and includes basic error handling.
 
 ---
 
